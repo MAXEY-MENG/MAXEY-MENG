@@ -3,7 +3,7 @@
 
 <div align="center"> 
 
-<img src="https://readme-typing-svg.demolab.com?font=Google+Code&pause=1024&color=F7C255&width=1000&lines=MAXEY-MENG+IN YOUR AREA+MAXEY-MENG+Say Hello World!">
+<img src="https://readme-typing-svg.demolab.com?font=Google+Code&pause=1024&color=F7C255&width=1000&lines=MAXEY-MENG+IN YOUR AREA+MAXEY-MENG+Say+Hello+World!">
 
 
 
