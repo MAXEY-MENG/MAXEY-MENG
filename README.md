@@ -3,7 +3,7 @@
 
 <div align="center"> 
 
-<img src="https://readme-typing-svg.demolab.com?font=Google+Code&pause=1000&color=F7C255&width=435&lines=MAXEY-MENG+IN YOUR AREA+MAXEY-MENG+IN YOUR AREA+MAXEY-MENG">
+<img src="https://readme-typing-svg.demolab.com?font=Google+Code&pause=1000&color=F7C255&width=435&lines=MAXEY-MENG+IN YOUR AREA+MAXEY-MENG+IN YOUR AREA">
 
 
 
